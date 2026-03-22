@@ -6,6 +6,7 @@
 * Wofi
 * Waybar
 * Ghostty
+* Dinit
 ## Hates:
 * Grub errors
 * /dev/sda not found :(
