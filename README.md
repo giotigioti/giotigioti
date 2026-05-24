@@ -10,3 +10,5 @@
 ## Hates:
 * Grub errors
 * /dev/sda not found :(
+## My stats
+![Stats](./profile/stats.svg)
