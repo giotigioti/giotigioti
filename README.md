@@ -1,4 +1,4 @@
-# I USE ARTIX BTW
+# I USE Gentoo BTW
 ## Loves:
 * Hyprland
 * Swww
