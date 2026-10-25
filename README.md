@@ -6,7 +6,7 @@
 * Wofi
 * Waybar
 * Ghostty
-* Dinit
+* Openrc
 ## Hates:
 * Grub errors
 * /dev/sda not found :(
